@@ -10,7 +10,7 @@
 ![image](https://github.com/edgehacker/voicelive-helper/assets/157565442/b86ba702-53f3-4206-9ae6-cc4531956d1c)
 ![image](https://github.com/edgehacker/voicelive-helper/assets/157565442/18ac4635-a500-434b-a882-ad5ce62d66e9)
 
-# 免责协议声明
+# 许可证协议（重要）
 
 重要提示：在使用小灰灰语音助手软件之前，请仔细阅读并确保您理解以下条款和条件。如果您不同意这些条款，请勿使用该软件。
 

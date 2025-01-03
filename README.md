@@ -1,5 +1,5 @@
-# voicelive-helper
-边缘骇客语音助手是一款基于弹幕监听实现语音助手，基于边缘骇客直播互动助手功能拓展，主要覆盖弹幕语音互动直播功能。
+# 边缘骇客直播语音助手
+边缘骇客直播语音助手是一款基于弹幕监听实现语音助手，基于边缘骇客直播互动助手功能拓展，主要覆盖弹幕语音互动直播功能。
 
 ![image](https://github.com/edgehacker/voicelive-helper/assets/157565442/4d40cecb-c051-4ae3-a778-421b7e862e35)
 ![image](https://github.com/edgehacker/voicelive-helper/assets/157565442/7e503ed7-a3be-4487-8ca3-d3e051860e4b)
